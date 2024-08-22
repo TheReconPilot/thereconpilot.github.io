@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: left
   image: PurvaParmar.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>MTech AI Student</p>
     <p>Indian Institute of Science (IISc)</p>
