@@ -8,11 +8,12 @@ profile:
   align: left
   image: PurvaParmar.jpg
   image_circular: true # crops the image to make it circular
+  <!--
   more_info: >
     <p>MTech AI Student</p>
     <p>Indian Institute of Science (IISc)</p>
     <p>Bengaluru, India</p>
-
+-->
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
