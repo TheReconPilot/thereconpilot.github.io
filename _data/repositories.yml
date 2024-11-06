@@ -1,9 +1,10 @@
-github_users:
-  - TheReconPilot
+# github_users:
+#   - TheReconPilot
 
 repo_description_lines_max: 2
 
 github_repos:
   - TheReconPilot/gaussian-mixture-models
   - TheReconPilot/gmm-presentation
+  - TheReconPilot/LAA-2024-Notes
   - TheReconPilot/rl-notes
